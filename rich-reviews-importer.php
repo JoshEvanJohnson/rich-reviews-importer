@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: Rich Review Importer
+ * Plugin Name: Rich Reviews Importer
  * GitHub Plugin URI: JoshEvanJohnson/rich-reviews-importer
  * Plugin URI: https://github.com/JoshEvanJohnson/rich-reviews-importer
  * Description: Adds the ability to import reviews for rich reviews plugin.
